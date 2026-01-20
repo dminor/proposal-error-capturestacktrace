@@ -4,7 +4,7 @@
 
 **Champions**: Matthew Gaudet (Mozilla), Daniel Minor (Mozilla)
 
-V8 has has a non-standard [Stack Trace API](https://v8.dev/docs/stack-trace-api) for a while.
+V8 has had a non-standard [Stack Trace API](https://v8.dev/docs/stack-trace-api) for a while.
 
 In August 2023, [JSC also shipped this method](https://github.com/WebKit/WebKit/commit/997e074bb35ed07b69c9b821141c91dd548e0d02)
 
